@@ -1,0 +1,8 @@
+{
+  "name": "MAISON KOVA",
+  "description": "Luxury modern lifestyle and technology storefront featuring an intelligent Gemini-powered AI shopping assistant with real-time catalog integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
